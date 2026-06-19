@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Table, Tag, Button, Input, Modal, InputNumber, Tabs, message } from 'antd'
 import { RiAddLine, RiRefreshLine, RiDeleteBinLine } from 'react-icons/ri'
-import { getVouchers, addVoucherPool, autoAllocate, revokeVoucher, markRedeemed } from '../config/api/apiConfig.js'
+import { getVouchers, getRegistrations, addVoucherPool, autoAllocate, revokeVoucher, markRedeemed } from '../config/api/apiConfig.js'
 import useDrive from '../utils/useDrive.js'
 
 const VoucherManagement = () => {
@@ -9,6 +9,7 @@ const VoucherManagement = () => {
   const [loading, setLoading] = useState(true)
   const [addModal, setAddModal] = useState(false)
   const [form, setForm] = useState({ vendor: '', value: 300, expiry_date: '', codes: '' })
+  const [regMap, setRegMap] = useState({})
   const drive = useDrive()
 
   useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
@@ -16,8 +17,15 @@ const VoucherManagement = () => {
   const fetchData = async () => {
     try {
       setLoading(true)
-      const res = await getVouchers(drive.drive_id)
-      setVouchers(res.data || [])
+      const [vRes, regRes] = await Promise.all([
+        getVouchers(drive.drive_id),
+        getRegistrations(drive.drive_id),
+      ])
+      const regs = regRes.data || []
+      const map = {}
+      regs.forEach(r => { map[r.reg_id] = r })
+      setRegMap(map)
+      setVouchers(vRes.data || [])
     } catch (err) { message.error('Failed to fetch vouchers') }
     finally { setLoading(false) }
   }
@@ -74,7 +82,8 @@ const VoucherManagement = () => {
 
   const allocColumns = [
     { title: 'Code', dataIndex: 'masked_code', key: 'code', width: 130 },
-    { title: 'Assigned To', dataIndex: 'assigned_to', key: 'assigned', width: 110, ellipsis: true },
+    { title: 'Candidate', key: 'candidate', width: 140, render: (_, r) => regMap[r.assigned_to]?.name || r.assigned_to || '—' },
+    { title: 'Emp ID', key: 'empid', width: 90, render: (_, r) => regMap[r.assigned_to]?.emp_id || '—' },
     { title: 'Allocated', dataIndex: 'allocated_date', key: 'alloc', width: 100, render: (d) => d?.slice(0, 10) },
     { title: 'Status', dataIndex: 'status', key: 'status', width: 90, render: (s) => <Tag color={statusColor(s)}>{s}</Tag> },
     { title: 'Actions', key: 'actions', width: 150, render: (_, r) => (
