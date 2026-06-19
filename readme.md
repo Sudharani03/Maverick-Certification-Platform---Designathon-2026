@@ -15,18 +15,6 @@ The platform covers the entire certification lifecycle:
 - **Audit Trail** — Immutable, append-only log of every action with before/after JSON snapshots
 - **Simulated Communications** — Event-triggered notifications (registration ack, eligibility decisions, result notifications, voucher issuance) logged for demo purposes
 
-### Key Design Decisions
-
-| Aspect | Choice |
-|--------|--------|
-| Database | None — Local JSON files (`backend/data/`) |
-| File Storage | Local filesystem (`backend/uploads/`) |
-| Authentication | Simplified — Button-based login (Admin / User), no JWT or SSO |
-| Users | 2 hardcoded: Admin (full access) + User (read-only on sensitive modules) |
-| Backend | Python FastAPI |
-| Frontend | React 18 + Vite + Tailwind CSS + Ant Design + Recharts |
-
----
 
 ## 2. Functionality Overview
 
@@ -211,42 +199,7 @@ The app will be running at: **http://localhost:5173**
 
 ---
 
-## 6. API Endpoints
-
-The backend exposes 40+ REST API endpoints. All use POST method.
-
-| Module | Endpoint | Description |
-|--------|----------|-------------|
-| Auth | `/api/auth/login` | Login by role (Admin/User) |
-| Drives | `/api/drives/create` | Create a new drive |
-| Drives | `/api/drives/get-all` | List all drives |
-| Drives | `/api/drives/get-details` | Get drive by ID |
-| Drives | `/api/drives/update` | Update drive metadata |
-| Drives | `/api/drives/close` | Close a drive |
-| Drives | `/api/drives/delete` | Delete a drive |
-| Registrations | `/api/registrations/register` | Register a candidate |
-| Registrations | `/api/registrations/get-by-drive` | List registrations for a drive |
-| Registrations | `/api/registrations/bulk-import` | Bulk import from CSV |
-| Eligibility | `/api/eligibility/bulk-evaluate` | Evaluate all candidates |
-| Eligibility | `/api/eligibility/approve` | Approve a candidate |
-| Eligibility | `/api/eligibility/reject` | Reject a candidate |
-| Results | `/api/results/import` | Import a single result |
-| Results | `/api/results/bulk-import` | Bulk import from CSV |
-| Vouchers | `/api/vouchers/add-pool` | Add vouchers to pool |
-| Vouchers | `/api/vouchers/auto-allocate` | Auto-allocate to passed candidates |
-| Vouchers | `/api/vouchers/revoke` | Revoke a voucher |
-| Vouchers | `/api/vouchers/mark-redeemed` | Mark as redeemed |
-| Reports | `/api/reports/drive-summary` | Aggregated drive stats |
-| Reports | `/api/reports/funnel` | Journey funnel data |
-| Reports | `/api/reports/pass-fail-trends` | Pass/fail by track |
-| Reports | `/api/reports/voucher-utilization` | Voucher stats |
-| Reports | `/api/reports/export-csv` | Export report as CSV |
-| Audit | `/api/audit/get-logs` | Get audit trail |
-| Communications | `/api/communications/get-by-registration` | Communication history |
-
----
-
-## 7. Quick Commands Reference
+## 6. Quick Commands Reference
 
 | Action | Command |
 |--------|---------|
@@ -259,7 +212,7 @@ The backend exposes 40+ REST API endpoints. All use POST method.
 
 ---
 
-## 8. Notes
+## 7. Notes
 
 - **No database required** — All data is stored as JSON files in `backend/data/`. Delete these files and re-run `seed_data.py` to reset.
 - **No authentication** — Login buttons simply set the user context in localStorage. No JWT, cookies, or tokens.
@@ -270,7 +223,7 @@ The backend exposes 40+ REST API endpoints. All use POST method.
 
 ---
 
-## 9. Troubleshooting
+## 8. Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -282,7 +235,7 @@ The backend exposes 40+ REST API endpoints. All use POST method.
 
 ---
 
-## 10. Team
+## 9. Team
 
 Built for the **Designathon 2026** — MAP Certification Drive Automation challenge.
 
