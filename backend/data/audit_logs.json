@@ -1,11 +1,11 @@
 [
   {
-    "log_id": "log_26e6d584",
+    "log_id": "log_6b9d4541",
     "entity": "Drive",
     "entity_id": "drv_aws2026",
     "action": "created",
     "actor": "admin_001",
-    "timestamp": "2026-05-19T12:39:00.945001+00:00",
+    "timestamp": "2026-05-20T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "name": "AWS Solutions Architect - July 2026",
@@ -13,12 +13,12 @@
     }
   },
   {
-    "log_id": "log_132b1cc5",
+    "log_id": "log_0ef8eab5",
     "entity": "Drive",
     "entity_id": "drv_azure2026",
     "action": "created",
     "actor": "admin_001",
-    "timestamp": "2026-05-29T12:39:00.945001+00:00",
+    "timestamp": "2026-05-30T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "name": "Azure Administrator AZ-104",
@@ -26,12 +26,12 @@
     }
   },
   {
-    "log_id": "log_9f300983",
+    "log_id": "log_b5de94f9",
     "entity": "Drive",
     "entity_id": "drv_gcp2026",
     "action": "created",
     "actor": "admin_001",
-    "timestamp": "2026-06-08T12:39:00.945001+00:00",
+    "timestamp": "2026-06-09T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "name": "GCP Cloud Architect",
@@ -39,12 +39,12 @@
     }
   },
   {
-    "log_id": "log_4d4ad1e8",
+    "log_id": "log_27921aea",
     "entity": "Registration",
     "entity_id": "drv_aws2026",
     "action": "bulk_imported",
     "actor": "admin_001",
-    "timestamp": "2026-05-21T12:39:00.945001+00:00",
+    "timestamp": "2026-05-22T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "success": 20,
@@ -52,12 +52,12 @@
     }
   },
   {
-    "log_id": "log_ce486026",
+    "log_id": "log_2959f345",
     "entity": "Registration",
     "entity_id": "drv_azure2026",
     "action": "bulk_imported",
     "actor": "admin_001",
-    "timestamp": "2026-05-31T12:39:00.945001+00:00",
+    "timestamp": "2026-06-01T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "success": 10,
@@ -65,12 +65,12 @@
     }
   },
   {
-    "log_id": "log_b2b1e56b",
+    "log_id": "log_6414537b",
     "entity": "Eligibility",
     "entity_id": "drv_aws2026",
     "action": "evaluated",
     "actor": "admin_001",
-    "timestamp": "2026-05-27T12:39:00.945001+00:00",
+    "timestamp": "2026-05-28T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "eligible": 15,
@@ -79,12 +79,12 @@
     }
   },
   {
-    "log_id": "log_584eb538",
+    "log_id": "log_158d315f",
     "entity": "Eligibility",
     "entity_id": "drv_azure2026",
     "action": "evaluated",
     "actor": "admin_001",
-    "timestamp": "2026-06-03T12:39:00.945001+00:00",
+    "timestamp": "2026-06-04T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "eligible": 8,
@@ -93,12 +93,12 @@
     }
   },
   {
-    "log_id": "log_fb9a1070",
+    "log_id": "log_2eb3b3c7",
     "entity": "Result",
     "entity_id": "drv_aws2026",
     "action": "bulk_imported",
     "actor": "admin_001",
-    "timestamp": "2026-06-06T12:39:00.945001+00:00",
+    "timestamp": "2026-06-07T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "passed": 8,
@@ -107,12 +107,12 @@
     }
   },
   {
-    "log_id": "log_8d933cfe",
+    "log_id": "log_84b74694",
     "entity": "Result",
     "entity_id": "drv_azure2026",
     "action": "bulk_imported",
     "actor": "admin_001",
-    "timestamp": "2026-06-09T12:39:00.945001+00:00",
+    "timestamp": "2026-06-10T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "passed": 4,
@@ -121,12 +121,12 @@
     }
   },
   {
-    "log_id": "log_f94d31b0",
+    "log_id": "log_85d4cb09",
     "entity": "Voucher",
     "entity_id": "drv_aws2026",
     "action": "pool_added",
     "actor": "admin_001",
-    "timestamp": "2026-06-10T12:39:00.945001+00:00",
+    "timestamp": "2026-06-11T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "count": 12,
@@ -135,12 +135,12 @@
     }
   },
   {
-    "log_id": "log_e97d13da",
+    "log_id": "log_67e972c4",
     "entity": "Voucher",
     "entity_id": "drv_azure2026",
     "action": "pool_added",
     "actor": "admin_001",
-    "timestamp": "2026-06-12T12:39:00.945001+00:00",
+    "timestamp": "2026-06-13T09:36:04.924863+00:00",
     "before": null,
     "after": {
       "count": 6,
@@ -149,12 +149,12 @@
     }
   },
   {
-    "log_id": "log_12be1997",
+    "log_id": "log_3ab00e1b",
     "entity": "Voucher",
     "entity_id": "drv_aws2026",
     "action": "allocated",
     "actor": "admin_001",
-    "timestamp": "2026-06-11T12:39:00.945001+00:00",
+    "timestamp": "2026-06-12T09:36:04.924863+00:00",
     "before": {
       "available": 12
     },
@@ -164,12 +164,12 @@
     }
   },
   {
-    "log_id": "log_7cdd42c3",
+    "log_id": "log_82a3b4d6",
     "entity": "Voucher",
     "entity_id": "drv_azure2026",
     "action": "allocated",
     "actor": "admin_001",
-    "timestamp": "2026-06-13T12:39:00.945001+00:00",
+    "timestamp": "2026-06-14T09:36:04.924863+00:00",
     "before": {
       "available": 6
     },
@@ -179,12 +179,12 @@
     }
   },
   {
-    "log_id": "log_0fc87ce3",
+    "log_id": "log_57687260",
     "entity": "Voucher",
     "entity_id": "drv_aws2026",
     "action": "redeemed",
     "actor": "user_001",
-    "timestamp": "2026-06-16T12:39:00.945001+00:00",
+    "timestamp": "2026-06-17T09:36:04.924863+00:00",
     "before": {
       "status": "allocated",
       "count": 8
@@ -195,12 +195,12 @@
     }
   },
   {
-    "log_id": "log_f660ccbe",
+    "log_id": "log_7d40a022",
     "entity": "Voucher",
     "entity_id": "drv_azure2026",
     "action": "redeemed",
     "actor": "user_001",
-    "timestamp": "2026-06-17T12:39:00.945001+00:00",
+    "timestamp": "2026-06-18T09:36:04.924863+00:00",
     "before": {
       "status": "allocated",
       "count": 4
@@ -211,229 +211,17 @@
     }
   },
   {
-    "log_id": "log_f3ff9492",
+    "log_id": "log_442b4311",
     "entity": "Drive",
     "entity_id": "drv_aws2026",
     "action": "updated",
     "actor": "admin_001",
-    "timestamp": "2026-06-03T12:39:00.945001+00:00",
+    "timestamp": "2026-06-04T09:36:04.924863+00:00",
     "before": {
       "target_count": 30
     },
     "after": {
       "target_count": 40
-    }
-  },
-  {
-    "log_id": "log_9529006c",
-    "entity": "Registration",
-    "entity_id": "reg_97a68119",
-    "action": "created",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:22:11.748229+00:00",
-    "before": null,
-    "after": {
-      "reg_id": "reg_97a68119",
-      "drive_id": "drv_azure2026",
-      "emp_id": "EMP2011",
-      "name": "Sneha ",
-      "email": "Sneha@gmail.com",
-      "bu": "Azure AZ 900",
-      "location": "Hyd",
-      "manager_email": "Manager@gmail.com",
-      "exam_track": "Azure AZ 900",
-      "slot": "2026-06-01",
-      "prior_attempts": 0,
-      "status": "registered",
-      "registered_at": "2026-06-19T04:22:11.717922+00:00",
-      "ack_timestamp": "2026-06-19T04:22:11.717922+00:00"
-    }
-  },
-  {
-    "log_id": "log_5bfbb2cf",
-    "entity": "Eligibility",
-    "entity_id": "elig_5fe7354e",
-    "action": "evaluated",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:22:32.475865+00:00",
-    "before": null,
-    "after": {
-      "elig_id": "elig_5fe7354e",
-      "reg_id": "reg_emp2009",
-      "drive_id": "drv_azure2026",
-      "criteria": {
-        "tenure_days": 120,
-        "tenure_check": true,
-        "training_complete": true,
-        "prior_attempts": 0,
-        "prior_attempts_check": true,
-        "budget_check": true
-      },
-      "decision": "eligible",
-      "approver": "admin_001",
-      "decision_date": "2026-06-19T04:22:32.361251+00:00",
-      "notes": ""
-    }
-  },
-  {
-    "log_id": "log_0e842b47",
-    "entity": "Eligibility",
-    "entity_id": "elig_c2a5590e",
-    "action": "evaluated",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:22:32.701763+00:00",
-    "before": null,
-    "after": {
-      "elig_id": "elig_c2a5590e",
-      "reg_id": "reg_emp2010",
-      "drive_id": "drv_azure2026",
-      "criteria": {
-        "tenure_days": 120,
-        "tenure_check": true,
-        "training_complete": true,
-        "prior_attempts": 0,
-        "prior_attempts_check": true,
-        "budget_check": true
-      },
-      "decision": "eligible",
-      "approver": "admin_001",
-      "decision_date": "2026-06-19T04:22:32.650470+00:00",
-      "notes": ""
-    }
-  },
-  {
-    "log_id": "log_81822888",
-    "entity": "Eligibility",
-    "entity_id": "elig_cd03b433",
-    "action": "evaluated",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:22:32.999027+00:00",
-    "before": null,
-    "after": {
-      "elig_id": "elig_cd03b433",
-      "reg_id": "reg_97a68119",
-      "drive_id": "drv_azure2026",
-      "criteria": {
-        "tenure_days": 120,
-        "tenure_check": true,
-        "training_complete": true,
-        "prior_attempts": 0,
-        "prior_attempts_check": true,
-        "budget_check": true
-      },
-      "decision": "eligible",
-      "approver": "admin_001",
-      "decision_date": "2026-06-19T04:22:32.903722+00:00",
-      "notes": ""
-    }
-  },
-  {
-    "log_id": "log_6f00146d",
-    "entity": "Result",
-    "entity_id": "res_a0b50715",
-    "action": "created",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:23:13.156717+00:00",
-    "before": null,
-    "after": {
-      "result_id": "res_a0b50715",
-      "reg_id": "reg_emp2010",
-      "drive_id": "drv_azure2026",
-      "score": 57.0,
-      "pass_threshold": 70,
-      "outcome": "failed",
-      "exam_date": "2026-06-10",
-      "evidence_filename": "",
-      "uploaded_at": "2026-06-19T04:23:13.041594+00:00"
-    }
-  },
-  {
-    "log_id": "log_5768b635",
-    "entity": "Voucher",
-    "entity_id": "vch_a59785e4",
-    "action": "allocated",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:23:28.380893+00:00",
-    "before": {
-      "voucher_id": "vch_a59785e4",
-      "drive_id": "drv_azure2026",
-      "vendor": "Microsoft",
-      "code": "AZ104-VCH-Q7R8-S9T0",
-      "masked_code": "****-****-S9T0",
-      "value": 250,
-      "expiry_date": "2027-01-31",
-      "status": "available",
-      "assigned_to": null,
-      "allocated_date": null,
-      "delivery_status": "pending",
-      "redeemed_date": null,
-      "reminder_sent": []
-    },
-    "after": {
-      "voucher_id": "vch_a59785e4",
-      "drive_id": "drv_azure2026",
-      "vendor": "Microsoft",
-      "code": "AZ104-VCH-Q7R8-S9T0",
-      "masked_code": "****-****-S9T0",
-      "value": 250,
-      "expiry_date": "2027-01-31",
-      "status": "allocated",
-      "assigned_to": "reg_emp2001",
-      "allocated_date": "2026-06-19T04:23:28.306968+00:00",
-      "delivery_status": "delivered",
-      "redeemed_date": null,
-      "reminder_sent": []
-    }
-  },
-  {
-    "log_id": "log_3fea68a9",
-    "entity": "Voucher",
-    "entity_id": "vch_eb9037f5",
-    "action": "allocated",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:23:28.564136+00:00",
-    "before": {
-      "voucher_id": "vch_eb9037f5",
-      "drive_id": "drv_azure2026",
-      "vendor": "Microsoft",
-      "code": "AZ104-VCH-U1V2-W3X4",
-      "masked_code": "****-****-W3X4",
-      "value": 250,
-      "expiry_date": "2027-01-31",
-      "status": "available",
-      "assigned_to": null,
-      "allocated_date": null,
-      "delivery_status": "pending",
-      "redeemed_date": null,
-      "reminder_sent": []
-    },
-    "after": {
-      "voucher_id": "vch_eb9037f5",
-      "drive_id": "drv_azure2026",
-      "vendor": "Microsoft",
-      "code": "AZ104-VCH-U1V2-W3X4",
-      "masked_code": "****-****-W3X4",
-      "value": 250,
-      "expiry_date": "2027-01-31",
-      "status": "allocated",
-      "assigned_to": "reg_emp2002",
-      "allocated_date": "2026-06-19T04:23:28.488346+00:00",
-      "delivery_status": "delivered",
-      "redeemed_date": null,
-      "reminder_sent": []
-    }
-  },
-  {
-    "log_id": "log_ac0e1765",
-    "entity": "Voucher",
-    "entity_id": "drv_azure2026",
-    "action": "pool_added",
-    "actor": "admin_001",
-    "timestamp": "2026-06-19T04:24:03.703332+00:00",
-    "before": null,
-    "after": {
-      "count": 1,
-      "vendor": "AWS_Voucher_AI102"
     }
   }
 ]

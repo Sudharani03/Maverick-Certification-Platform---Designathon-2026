@@ -118,7 +118,7 @@ cd maverick-certification-hub
 ```
 
 ### Step 2: Set Up the Backend
-
+                  
 ```bash
 # Navigate to backend
 cd backend

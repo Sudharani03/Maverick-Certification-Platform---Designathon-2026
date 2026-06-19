@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Table, Tag, Button, Input, Modal, InputNumber, Upload, message } from 'antd'
 import { RiSearchLine, RiAddLine, RiUploadCloud2Line } from 'react-icons/ri'
 import { getResults, importResult, bulkImportResults } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const AssessmentResults = () => {
   const [results, setResults] = useState([])
@@ -9,11 +10,11 @@ const AssessmentResults = () => {
   const [searchQuery, setSearchQuery] = useState('')
   const [modalOpen, setModalOpen] = useState(false)
   const [form, setForm] = useState({ reg_id: '', score: 0, exam_date: '' })
-  const drive = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const drive = useDrive()
   const user = JSON.parse(localStorage.getItem('auth_user') || '{}')
   const isAdmin = user.role === 'Admin'
 
-  useEffect(() => { if (drive.drive_id) fetchData() }, [])
+  useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
 
   const fetchData = async () => {
     try {

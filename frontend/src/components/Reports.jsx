@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { message, Spin } from 'antd'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, Legend } from 'recharts'
 import { getDriveSummary, getFunnelData, getPassFailTrends, getVoucherUtilization } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const COLORS = { blue: '#154BC7', green: '#59BE9C', orange: '#F59E0B', red: '#EF4444', purple: '#7C3AED', lightBlue: '#93C5FD' }
 
@@ -11,9 +12,9 @@ const Reports = () => {
   const [passFail, setPassFail] = useState([])
   const [utilization, setUtilization] = useState(null)
   const [loading, setLoading] = useState(true)
-  const drive = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const drive = useDrive()
 
-  useEffect(() => { if (drive.drive_id) fetchData() }, [])
+  useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
 
   const fetchData = async () => {
     try {

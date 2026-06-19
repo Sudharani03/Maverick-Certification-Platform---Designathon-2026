@@ -2,17 +2,18 @@ import { useState, useEffect } from 'react'
 import { Table, Tag, Button, Modal, Input, message, Spin } from 'antd'
 import { RiCheckLine, RiCloseLine, RiPlayLine } from 'react-icons/ri'
 import { getEligibility, bulkEvaluate, approveCandidate, rejectCandidate } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const Eligibility = () => {
   const [records, setRecords] = useState([])
   const [loading, setLoading] = useState(true)
   const [rejectModal, setRejectModal] = useState({ open: false, eligId: null })
   const [reason, setReason] = useState('')
-  const drive = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const drive = useDrive()
   const user = JSON.parse(localStorage.getItem('auth_user') || '{}')
   const isAdmin = user.role === 'Admin'
 
-  useEffect(() => { if (drive.drive_id) fetchData() }, [])
+  useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
 
   const fetchData = async () => {
     try {

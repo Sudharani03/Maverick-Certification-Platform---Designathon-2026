@@ -3,23 +3,24 @@ import { useNavigate } from 'react-router-dom'
 import { Tag, Button, message, Spin } from 'antd'
 import { RiArrowLeftLine, RiEditLine } from 'react-icons/ri'
 import { getDriveDetails, getDriveSummary } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const DriveDetails = () => {
   const navigate = useNavigate()
   const [drive, setDrive] = useState(null)
   const [summary, setSummary] = useState(null)
   const [loading, setLoading] = useState(true)
-  const stored = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const selectedDrive = useDrive()
 
   useEffect(() => {
-    if (stored.drive_id) fetchData()
-  }, [])
+    if (selectedDrive?.drive_id) fetchData()
+  }, [selectedDrive])
 
   const fetchData = async () => {
     try {
       const [driveRes, summaryRes] = await Promise.all([
-        getDriveDetails(stored.drive_id),
-        getDriveSummary(stored.drive_id),
+        getDriveDetails(selectedDrive.drive_id),
+        getDriveSummary(selectedDrive.drive_id),
       ])
       setDrive(driveRes.data)
       setSummary(summaryRes.data)

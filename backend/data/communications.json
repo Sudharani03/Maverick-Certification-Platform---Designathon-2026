@@ -1,794 +1,738 @@
 [
   {
-    "comm_id": "comm_1969a838",
+    "comm_id": "comm_478fe1a1",
     "reg_id": "reg_emp1001",
     "template_key": "registration_ack",
     "rendered_content": "Dear Priya Sharma, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1001.",
-    "simulated_sent_at": "2026-05-21T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-22T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_1f569545",
+    "comm_id": "comm_d10c25ba",
     "reg_id": "reg_emp1002",
     "template_key": "registration_ack",
     "rendered_content": "Dear Rahul Verma, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1002.",
-    "simulated_sent_at": "2026-05-22T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-23T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_90266f6f",
+    "comm_id": "comm_c425e51b",
     "reg_id": "reg_emp1003",
     "template_key": "registration_ack",
     "rendered_content": "Dear Anita Desai, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1003.",
-    "simulated_sent_at": "2026-05-23T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-24T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_e6309d03",
+    "comm_id": "comm_44ffa6d6",
     "reg_id": "reg_emp1004",
     "template_key": "registration_ack",
     "rendered_content": "Dear Vikram Singh, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1004.",
-    "simulated_sent_at": "2026-05-24T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-25T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_a36c28ff",
+    "comm_id": "comm_50a3e19c",
     "reg_id": "reg_emp1005",
     "template_key": "registration_ack",
     "rendered_content": "Dear Sneha Patel, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1005.",
-    "simulated_sent_at": "2026-05-25T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-26T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6a7670f9",
+    "comm_id": "comm_dae03dac",
     "reg_id": "reg_emp1006",
     "template_key": "registration_ack",
     "rendered_content": "Dear Arjun Nair, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1006.",
-    "simulated_sent_at": "2026-05-26T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-27T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_221a1095",
+    "comm_id": "comm_fe465a9e",
     "reg_id": "reg_emp1007",
     "template_key": "registration_ack",
     "rendered_content": "Dear Deepika Rao, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1007.",
-    "simulated_sent_at": "2026-05-27T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-28T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6112313e",
+    "comm_id": "comm_aeb562a2",
     "reg_id": "reg_emp1008",
     "template_key": "registration_ack",
     "rendered_content": "Dear Karthik Kumar, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1008.",
-    "simulated_sent_at": "2026-05-28T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-29T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_24c3e906",
+    "comm_id": "comm_52eee155",
     "reg_id": "reg_emp1009",
     "template_key": "registration_ack",
     "rendered_content": "Dear Meera Iyer, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1009.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_a2e8c853",
+    "comm_id": "comm_893ec916",
     "reg_id": "reg_emp1010",
     "template_key": "registration_ack",
     "rendered_content": "Dear Suresh Reddy, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1010.",
-    "simulated_sent_at": "2026-05-30T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-31T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_fb60ad39",
+    "comm_id": "comm_3166ac89",
     "reg_id": "reg_emp1011",
     "template_key": "registration_ack",
     "rendered_content": "Dear Kavya Menon, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1011.",
-    "simulated_sent_at": "2026-05-31T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-01T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_bc35a708",
+    "comm_id": "comm_7cd4fd25",
     "reg_id": "reg_emp1012",
     "template_key": "registration_ack",
     "rendered_content": "Dear Arun Krishnan, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1012.",
-    "simulated_sent_at": "2026-06-01T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-02T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_f2673291",
+    "comm_id": "comm_0e7361d9",
     "reg_id": "reg_emp1013",
     "template_key": "registration_ack",
     "rendered_content": "Dear Divya Gupta, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1013.",
-    "simulated_sent_at": "2026-06-02T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-03T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c6fc7399",
+    "comm_id": "comm_d2d6291e",
     "reg_id": "reg_emp1014",
     "template_key": "registration_ack",
     "rendered_content": "Dear Rajesh Pillai, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1014.",
-    "simulated_sent_at": "2026-06-03T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-04T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_5e0d761f",
+    "comm_id": "comm_701c8d15",
     "reg_id": "reg_emp1015",
     "template_key": "registration_ack",
     "rendered_content": "Dear Lakshmi Venkat, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1015.",
-    "simulated_sent_at": "2026-06-04T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-05T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6c660929",
+    "comm_id": "comm_50c8e846",
     "reg_id": "reg_emp1016",
     "template_key": "registration_ack",
     "rendered_content": "Dear Manish Tiwari, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1016.",
-    "simulated_sent_at": "2026-06-05T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-06T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_7096a719",
+    "comm_id": "comm_f8d80db1",
     "reg_id": "reg_emp1017",
     "template_key": "registration_ack",
     "rendered_content": "Dear Nisha Agarwal, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1017.",
-    "simulated_sent_at": "2026-06-06T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-07T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4dc047ae",
+    "comm_id": "comm_a71de20a",
     "reg_id": "reg_emp1018",
     "template_key": "registration_ack",
     "rendered_content": "Dear Rohan Jha, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1018.",
-    "simulated_sent_at": "2026-06-07T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-08T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_5402144d",
+    "comm_id": "comm_11c53cfa",
     "reg_id": "reg_emp1019",
     "template_key": "registration_ack",
     "rendered_content": "Dear Tanvi Bhatt, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1019.",
-    "simulated_sent_at": "2026-06-08T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_db464d28",
+    "comm_id": "comm_d78efb01",
     "reg_id": "reg_emp1020",
     "template_key": "registration_ack",
     "rendered_content": "Dear Sameer Khan, your registration for AWS Solutions Architect - July 2026 has been received. Registration ID: reg_emp1020.",
-    "simulated_sent_at": "2026-06-09T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-10T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c6de2ac5",
+    "comm_id": "comm_c90e03bd",
     "reg_id": "reg_emp2001",
     "template_key": "registration_ack",
     "rendered_content": "Dear Amit Joshi, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2001.",
-    "simulated_sent_at": "2026-05-31T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-01T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ab5755a6",
+    "comm_id": "comm_f5ebdf82",
     "reg_id": "reg_emp2002",
     "template_key": "registration_ack",
     "rendered_content": "Dear Riya Saxena, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2002.",
-    "simulated_sent_at": "2026-06-01T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-02T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_67d2823b",
+    "comm_id": "comm_54dbcc80",
     "reg_id": "reg_emp2003",
     "template_key": "registration_ack",
     "rendered_content": "Dear Nikhil Das, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2003.",
-    "simulated_sent_at": "2026-06-02T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-03T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_5d4c22be",
+    "comm_id": "comm_d0ad61f6",
     "reg_id": "reg_emp2004",
     "template_key": "registration_ack",
     "rendered_content": "Dear Pooja Mehta, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2004.",
-    "simulated_sent_at": "2026-06-03T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-04T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_9e7b63f3",
+    "comm_id": "comm_2d4682aa",
     "reg_id": "reg_emp2005",
     "template_key": "registration_ack",
     "rendered_content": "Dear Sanjay Yadav, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2005.",
-    "simulated_sent_at": "2026-06-04T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-05T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ff3219ad",
+    "comm_id": "comm_21398e96",
     "reg_id": "reg_emp2006",
     "template_key": "registration_ack",
     "rendered_content": "Dear Shruti Kapoor, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2006.",
-    "simulated_sent_at": "2026-06-05T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-06T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_0ecc3620",
+    "comm_id": "comm_ca5ba328",
     "reg_id": "reg_emp2007",
     "template_key": "registration_ack",
     "rendered_content": "Dear Varun Malhotra, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2007.",
-    "simulated_sent_at": "2026-06-06T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-07T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_49a6531a",
+    "comm_id": "comm_939e339e",
     "reg_id": "reg_emp2008",
     "template_key": "registration_ack",
     "rendered_content": "Dear Neha Srivastava, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2008.",
-    "simulated_sent_at": "2026-06-07T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-08T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_28cc7538",
+    "comm_id": "comm_7f0306e5",
     "reg_id": "reg_emp2009",
     "template_key": "registration_ack",
     "rendered_content": "Dear Abhishek Roy, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2009.",
-    "simulated_sent_at": "2026-06-08T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_8634e052",
+    "comm_id": "comm_fd172499",
     "reg_id": "reg_emp2010",
     "template_key": "registration_ack",
     "rendered_content": "Dear Pallavi Mishra, your registration for Azure Administrator AZ-104 - Aug 2026 has been received. Registration ID: reg_emp2010.",
-    "simulated_sent_at": "2026-06-09T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-10T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_40aec5fe",
+    "comm_id": "comm_90041327",
     "reg_id": "reg_emp3001",
     "template_key": "registration_ack",
     "rendered_content": "Dear Siddharth Nath, your registration for GCP Cloud Architect - Sep 2026 has been received. Registration ID: reg_emp3001.",
-    "simulated_sent_at": "2026-06-10T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-11T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_e8b1b299",
+    "comm_id": "comm_9d2e04e2",
     "reg_id": "reg_emp3002",
     "template_key": "registration_ack",
     "rendered_content": "Dear Aditi Banerjee, your registration for GCP Cloud Architect - Sep 2026 has been received. Registration ID: reg_emp3002.",
-    "simulated_sent_at": "2026-06-11T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_9a32a4cc",
+    "comm_id": "comm_501ffef2",
     "reg_id": "reg_emp3003",
     "template_key": "registration_ack",
     "rendered_content": "Dear Gaurav Saxena, your registration for GCP Cloud Architect - Sep 2026 has been received. Registration ID: reg_emp3003.",
-    "simulated_sent_at": "2026-06-12T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-13T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_5639209f",
+    "comm_id": "comm_b41cd99e",
     "reg_id": "reg_emp3004",
     "template_key": "registration_ack",
     "rendered_content": "Dear Swati Kulkarni, your registration for GCP Cloud Architect - Sep 2026 has been received. Registration ID: reg_emp3004.",
-    "simulated_sent_at": "2026-06-13T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-14T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c6d29f55",
+    "comm_id": "comm_cb471736",
     "reg_id": "reg_emp3005",
     "template_key": "registration_ack",
     "rendered_content": "Dear Harish Menon, your registration for GCP Cloud Architect - Sep 2026 has been received. Registration ID: reg_emp3005.",
-    "simulated_sent_at": "2026-06-14T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-06-15T09:36:04.924069+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_0cf6ae79",
+    "comm_id": "comm_eed11fb1",
     "reg_id": "reg_emp1001",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Priya Sharma, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_51b0afe9",
+    "comm_id": "comm_b345ebcc",
     "reg_id": "reg_emp1002",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Rahul Verma, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_624e70a9",
+    "comm_id": "comm_de708852",
     "reg_id": "reg_emp1003",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Anita Desai, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_7362c68b",
+    "comm_id": "comm_c88376a8",
     "reg_id": "reg_emp1004",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Vikram Singh, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_aeb48522",
+    "comm_id": "comm_81afa44e",
     "reg_id": "reg_emp1005",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Sneha Patel, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6e96c237",
+    "comm_id": "comm_2252dfe1",
     "reg_id": "reg_emp1006",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Arjun Nair, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_1d6fb431",
+    "comm_id": "comm_6f2ea6be",
     "reg_id": "reg_emp1007",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Deepika Rao, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6b277594",
+    "comm_id": "comm_f5a459dc",
     "reg_id": "reg_emp1008",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Karthik Kumar, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.924863+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c586e095",
+    "comm_id": "comm_df25a253",
     "reg_id": "reg_emp1009",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Meera Iyer, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_20db1f26",
+    "comm_id": "comm_1c9c18be",
     "reg_id": "reg_emp1010",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Suresh Reddy, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4b1e730f",
+    "comm_id": "comm_caad17dd",
     "reg_id": "reg_emp1011",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Kavya Menon, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_04b8f834",
+    "comm_id": "comm_cc5a59ba",
     "reg_id": "reg_emp1012",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Arun Krishnan, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.945001+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_2903a652",
+    "comm_id": "comm_bd94535d",
     "reg_id": "reg_emp1013",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Divya Gupta, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_f1daab47",
+    "comm_id": "comm_800a4904",
     "reg_id": "reg_emp1014",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Rajesh Pillai, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_06b931c2",
+    "comm_id": "comm_ddc73cd4",
     "reg_id": "reg_emp1015",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Lakshmi Venkat, you have been approved as eligible for AWS Solutions Architect - July 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_7db601af",
+    "comm_id": "comm_d718344b",
     "reg_id": "reg_emp1019",
     "template_key": "eligibility_rejected",
     "rendered_content": "Dear Tanvi Bhatt, you have been found ineligible for AWS Solutions Architect - July 2026. Reason: Prior attempts (2) exceed limit",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_e8663b9d",
+    "comm_id": "comm_def00544",
     "reg_id": "reg_emp1020",
     "template_key": "eligibility_rejected",
     "rendered_content": "Dear Sameer Khan, you have been found ineligible for AWS Solutions Architect - July 2026. Reason: Prior attempts (2) exceed limit",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ccd5a03f",
+    "comm_id": "comm_b5c13201",
     "reg_id": "reg_emp2001",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Amit Joshi, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_3a6ca372",
+    "comm_id": "comm_80f0bb8a",
     "reg_id": "reg_emp2002",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Riya Saxena, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_8c01885e",
+    "comm_id": "comm_e87b40a6",
     "reg_id": "reg_emp2003",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Nikhil Das, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_046fcaf3",
+    "comm_id": "comm_ac29a004",
     "reg_id": "reg_emp2004",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Pooja Mehta, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_874ddbb2",
+    "comm_id": "comm_59e552f4",
     "reg_id": "reg_emp2005",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Sanjay Yadav, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_54cc9e72",
+    "comm_id": "comm_d08e7dde",
     "reg_id": "reg_emp2006",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Shruti Kapoor, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_60e97ab5",
+    "comm_id": "comm_f3d12832",
     "reg_id": "reg_emp2007",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Varun Malhotra, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_87f4db43",
+    "comm_id": "comm_7ab6111e",
     "reg_id": "reg_emp2008",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Neha Srivastava, you have been approved as eligible for Azure Administrator AZ-104 - Aug 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_5b5c580e",
+    "comm_id": "comm_012f5819",
     "reg_id": "reg_emp3001",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Siddharth Nath, you have been approved as eligible for GCP Cloud Architect - Sep 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_6e63bb2b",
+    "comm_id": "comm_691ef9a0",
     "reg_id": "reg_emp3002",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Aditi Banerjee, you have been approved as eligible for GCP Cloud Architect - Sep 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_61f7fd2d",
+    "comm_id": "comm_2f35b355",
     "reg_id": "reg_emp3003",
     "template_key": "eligibility_approved",
     "rendered_content": "Dear Gaurav Saxena, you have been approved as eligible for GCP Cloud Architect - Sep 2026.",
-    "simulated_sent_at": "2026-05-29T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-05-30T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_7aca730f",
+    "comm_id": "comm_43441473",
     "reg_id": "reg_emp1001",
     "template_key": "result_passed",
     "rendered_content": "Dear Priya Sharma, congratulations! You passed AWS Solutions Architect - July 2026 with score 78%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_a713bf30",
+    "comm_id": "comm_e63c7b27",
     "reg_id": "reg_emp1002",
     "template_key": "result_passed",
     "rendered_content": "Dear Rahul Verma, congratulations! You passed AWS Solutions Architect - July 2026 with score 82%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_505e6993",
+    "comm_id": "comm_5afd1a11",
     "reg_id": "reg_emp1003",
     "template_key": "result_passed",
     "rendered_content": "Dear Anita Desai, congratulations! You passed AWS Solutions Architect - July 2026 with score 85%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_eff1d6bc",
+    "comm_id": "comm_118e10b9",
     "reg_id": "reg_emp1004",
     "template_key": "result_passed",
     "rendered_content": "Dear Vikram Singh, congratulations! You passed AWS Solutions Architect - July 2026 with score 91%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_06b9dec6",
+    "comm_id": "comm_4939b556",
     "reg_id": "reg_emp1005",
     "template_key": "result_passed",
     "rendered_content": "Dear Sneha Patel, congratulations! You passed AWS Solutions Architect - July 2026 with score 76%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ec517341",
+    "comm_id": "comm_e5be7aa8",
     "reg_id": "reg_emp1006",
     "template_key": "result_passed",
     "rendered_content": "Dear Arjun Nair, congratulations! You passed AWS Solutions Architect - July 2026 with score 88%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ee18dc52",
+    "comm_id": "comm_8deecee3",
     "reg_id": "reg_emp1007",
     "template_key": "result_passed",
     "rendered_content": "Dear Deepika Rao, congratulations! You passed AWS Solutions Architect - July 2026 with score 79%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_51cb2542",
+    "comm_id": "comm_ccb20144",
     "reg_id": "reg_emp1008",
     "template_key": "result_passed",
     "rendered_content": "Dear Karthik Kumar, congratulations! You passed AWS Solutions Architect - July 2026 with score 84%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_1fb0af1f",
+    "comm_id": "comm_e7f2fde2",
     "reg_id": "reg_emp1009",
     "template_key": "result_failed",
     "rendered_content": "Dear Meera Iyer, you scored 55% on AWS Solutions Architect - July 2026 (threshold: 72%). Please check retake policies.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_d915f974",
+    "comm_id": "comm_909e5146",
     "reg_id": "reg_emp1010",
     "template_key": "result_failed",
     "rendered_content": "Dear Suresh Reddy, you scored 62% on AWS Solutions Architect - July 2026 (threshold: 72%). Please check retake policies.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_8fd4f7c3",
+    "comm_id": "comm_49b4e3c5",
     "reg_id": "reg_emp1011",
     "template_key": "result_failed",
     "rendered_content": "Dear Kavya Menon, you scored 68% on AWS Solutions Architect - July 2026 (threshold: 72%). Please check retake policies.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_82018b08",
+    "comm_id": "comm_452c664b",
     "reg_id": "reg_emp2001",
     "template_key": "result_passed",
     "rendered_content": "Dear Amit Joshi, congratulations! You passed Azure Administrator AZ-104 - Aug 2026 with score 78%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4078534c",
+    "comm_id": "comm_1f4f968e",
     "reg_id": "reg_emp2002",
     "template_key": "result_passed",
     "rendered_content": "Dear Riya Saxena, congratulations! You passed Azure Administrator AZ-104 - Aug 2026 with score 82%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_b5a560be",
+    "comm_id": "comm_80a03ab6",
     "reg_id": "reg_emp2003",
     "template_key": "result_passed",
     "rendered_content": "Dear Nikhil Das, congratulations! You passed Azure Administrator AZ-104 - Aug 2026 with score 85%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4ecffe01",
+    "comm_id": "comm_112e38d9",
     "reg_id": "reg_emp2004",
     "template_key": "result_passed",
     "rendered_content": "Dear Pooja Mehta, congratulations! You passed Azure Administrator AZ-104 - Aug 2026 with score 91%. Your voucher will be issued shortly.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_a90bb945",
+    "comm_id": "comm_4f45b9ae",
     "reg_id": "reg_emp2005",
     "template_key": "result_failed",
     "rendered_content": "Dear Sanjay Yadav, you scored 58% on Azure Administrator AZ-104 - Aug 2026 (threshold: 70%). Please check retake policies.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_05faa0b9",
+    "comm_id": "comm_184b98df",
     "reg_id": "reg_emp2006",
     "template_key": "result_failed",
     "rendered_content": "Dear Shruti Kapoor, you scored 65% on Azure Administrator AZ-104 - Aug 2026 (threshold: 70%). Please check retake policies.",
-    "simulated_sent_at": "2026-06-08T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-09T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4fb26de6",
+    "comm_id": "comm_4f24df73",
     "reg_id": "reg_emp1001",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Priya Sharma, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-X9QW, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_d2d92732",
+    "comm_id": "comm_610687a6",
     "reg_id": "reg_emp1002",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Rahul Verma, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-L5VT, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c3d6ebbe",
+    "comm_id": "comm_ee10f4ff",
     "reg_id": "reg_emp1003",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Anita Desai, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-R3YP, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_ac6ad14f",
+    "comm_id": "comm_1dd74990",
     "reg_id": "reg_emp1004",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Vikram Singh, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-W7ZA, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_b393f9cc",
+    "comm_id": "comm_fc973e61",
     "reg_id": "reg_emp1005",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Sneha Patel, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-M2KE, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_dfa4c120",
+    "comm_id": "comm_31b037f1",
     "reg_id": "reg_emp1006",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Arjun Nair, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-T6XS, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_1408d17a",
+    "comm_id": "comm_eabcc648",
     "reg_id": "reg_emp1007",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Deepika Rao, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-Q4HV, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_e8422a7f",
+    "comm_id": "comm_2acdd33f",
     "reg_id": "reg_emp1008",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Karthik Kumar, your voucher for AWS Solutions Architect - July 2026 has been issued. Code: ****-****-Y8FC, Expiry: 2026-12-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_f813b81e",
+    "comm_id": "comm_5a3f103e",
     "reg_id": "reg_emp2001",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Amit Joshi, your voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Code: ****-****-C3D4, Expiry: 2027-01-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_970301f4",
+    "comm_id": "comm_b1dfc0bd",
     "reg_id": "reg_emp2002",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Riya Saxena, your voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Code: ****-****-G7H8, Expiry: 2027-01-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_4c0086b6",
+    "comm_id": "comm_b9bd3e55",
     "reg_id": "reg_emp2003",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Nikhil Das, your voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Code: ****-****-K1L2, Expiry: 2027-01-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   },
   {
-    "comm_id": "comm_c4d85ba2",
+    "comm_id": "comm_d53316c6",
     "reg_id": "reg_emp2004",
     "template_key": "voucher_issued",
     "rendered_content": "Dear Pooja Mehta, your voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Code: ****-****-O5P6, Expiry: 2027-01-31.",
-    "simulated_sent_at": "2026-06-11T12:39:00.946576+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_559fcca3",
-    "reg_id": "reg_97a68119",
-    "template_key": "registration_ack",
-    "rendered_content": "Dear Sneha , your registration for the Azure Administrator AZ-104 - Aug 2026 certification drive has been received successfully. Your Registration ID is reg_97a68119. We will notify you about the eligibility evaluation shortly.",
-    "simulated_sent_at": "2026-06-19T04:22:11.771132+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_b7cc57e2",
-    "reg_id": "reg_emp2009",
-    "template_key": "eligibility_approved",
-    "rendered_content": "Dear Abhishek Roy, congratulations! You have been approved as eligible for the Azure Administrator AZ-104 - Aug 2026 certification drive. Please await further instructions regarding the assessment schedule.",
-    "simulated_sent_at": "2026-06-19T04:22:32.542460+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_f99dad9d",
-    "reg_id": "reg_emp2010",
-    "template_key": "eligibility_approved",
-    "rendered_content": "Dear Pallavi Mishra, congratulations! You have been approved as eligible for the Azure Administrator AZ-104 - Aug 2026 certification drive. Please await further instructions regarding the assessment schedule.",
-    "simulated_sent_at": "2026-06-19T04:22:32.769534+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_d29742a3",
-    "reg_id": "reg_97a68119",
-    "template_key": "eligibility_approved",
-    "rendered_content": "Dear Sneha , congratulations! You have been approved as eligible for the Azure Administrator AZ-104 - Aug 2026 certification drive. Please await further instructions regarding the assessment schedule.",
-    "simulated_sent_at": "2026-06-19T04:22:33.068045+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_13c6c607",
-    "reg_id": "reg_emp2010",
-    "template_key": "result_failed",
-    "rendered_content": "Dear Pallavi Mishra, unfortunately you did not meet the passing threshold for the Azure Administrator AZ-104 - Aug 2026 assessment. Your score: 57.0, Required: 70. Please check retake policies with your coordinator.",
-    "simulated_sent_at": "2026-06-19T04:23:13.220711+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_2f81d580",
-    "reg_id": "reg_emp2001",
-    "template_key": "voucher_issued",
-    "rendered_content": "Dear Amit Joshi, your certification voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Voucher Code: ****-****-S9T0, Vendor: Microsoft, Expiry: 2027-01-31. Please redeem before the expiry date.",
-    "simulated_sent_at": "2026-06-19T04:23:28.442817+00:00",
-    "status": "sent"
-  },
-  {
-    "comm_id": "comm_582658d4",
-    "reg_id": "reg_emp2002",
-    "template_key": "voucher_issued",
-    "rendered_content": "Dear Riya Saxena, your certification voucher for Azure Administrator AZ-104 - Aug 2026 has been issued. Voucher Code: ****-****-W3X4, Vendor: Microsoft, Expiry: 2027-01-31. Please redeem before the expiry date.",
-    "simulated_sent_at": "2026-06-19T04:23:28.654896+00:00",
+    "simulated_sent_at": "2026-06-12T09:36:04.925784+00:00",
     "status": "sent"
   }
 ]

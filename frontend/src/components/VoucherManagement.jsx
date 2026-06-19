@@ -2,15 +2,16 @@ import { useState, useEffect } from 'react'
 import { Table, Tag, Button, Input, Modal, InputNumber, Tabs, message } from 'antd'
 import { RiAddLine, RiRefreshLine, RiDeleteBinLine } from 'react-icons/ri'
 import { getVouchers, addVoucherPool, autoAllocate, revokeVoucher, markRedeemed } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const VoucherManagement = () => {
   const [vouchers, setVouchers] = useState([])
   const [loading, setLoading] = useState(true)
   const [addModal, setAddModal] = useState(false)
   const [form, setForm] = useState({ vendor: '', value: 300, expiry_date: '', codes: '' })
-  const drive = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const drive = useDrive()
 
-  useEffect(() => { if (drive.drive_id) fetchData() }, [])
+  useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
 
   const fetchData = async () => {
     try {

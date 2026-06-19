@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { Table, Tag, Button, Input, Modal, message, Upload, Spin } from 'antd'
 import { RiSearchLine, RiAddLine, RiUploadCloud2Line } from 'react-icons/ri'
 import { getRegistrations, registerCandidate, bulkImportRegistrations } from '../config/api/apiConfig.js'
+import useDrive from '../utils/useDrive.js'
 
 const Registrations = () => {
   const [registrations, setRegistrations] = useState([])
@@ -9,11 +10,11 @@ const Registrations = () => {
   const [searchQuery, setSearchQuery] = useState('')
   const [modalOpen, setModalOpen] = useState(false)
   const [form, setForm] = useState({ emp_id: '', name: '', email: '', bu: '', location: '', manager_email: '', exam_track: '', slot: '', prior_attempts: 0 })
-  const drive = JSON.parse(localStorage.getItem('selected_drive') || '{}')
+  const drive = useDrive()
   const user = JSON.parse(localStorage.getItem('auth_user') || '{}')
   const isAdmin = user.role === 'Admin'
 
-  useEffect(() => { if (drive.drive_id) fetchData() }, [])
+  useEffect(() => { if (drive?.drive_id) fetchData() }, [drive])
 
   const fetchData = async () => {
     try {

@@ -20,7 +20,12 @@ const DrivesDashboard = () => {
     try {
       setLoading(true)
       const res = await getAllDrives()
-      setDrives(res.data || [])
+      const drivesList = res.data || []
+      setDrives(drivesList)
+      // Auto-select first drive if none selected
+      if (drivesList.length > 0 && !localStorage.getItem('selected_drive')) {
+        localStorage.setItem('selected_drive', JSON.stringify(drivesList[0]))
+      }
     } catch (err) {
       message.error('Failed to fetch drives')
     } finally {
