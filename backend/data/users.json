@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "admin_001",
+    "name": "Admin User",
+    "role": "Admin",
+    "initials": "AU"
+  },
+  {
+    "user_id": "user_001",
+    "name": "John Doe",
+    "role": "User",
+    "initials": "JD"
+  }
+]

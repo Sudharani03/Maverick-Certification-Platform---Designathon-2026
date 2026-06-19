@@ -1,0 +1,11 @@
+{
+  "registration_ack": "Dear {candidate_name}, your registration for the {drive_name} certification drive has been received successfully. Your Registration ID is {reg_id}. We will notify you about the eligibility evaluation shortly.",
+  "eligibility_approved": "Dear {candidate_name}, congratulations! You have been approved as eligible for the {drive_name} certification drive. Please await further instructions regarding the assessment schedule.",
+  "eligibility_rejected": "Dear {candidate_name}, we regret to inform you that your eligibility for the {drive_name} certification drive has been declined. Reason: {reason}. Please contact your manager for further details.",
+  "result_passed": "Dear {candidate_name}, congratulations! You have passed the {drive_name} assessment with a score of {score}. Your certification voucher will be issued shortly.",
+  "result_failed": "Dear {candidate_name}, unfortunately you did not meet the passing threshold for the {drive_name} assessment. Your score: {score}, Required: {pass_threshold}. Please check retake policies with your coordinator.",
+  "voucher_issued": "Dear {candidate_name}, your certification voucher for {drive_name} has been issued. Voucher Code: {voucher_masked_code}, Vendor: {vendor}, Expiry: {expiry_date}. Please redeem before the expiry date.",
+  "voucher_reminder_30": "Dear {candidate_name}, this is a reminder that your certification voucher ({voucher_masked_code}) for {drive_name} will expire on {expiry_date}. You have 30 days remaining.",
+  "voucher_reminder_7": "Dear {candidate_name}, URGENT: Your certification voucher ({voucher_masked_code}) for {drive_name} expires in 7 days on {expiry_date}. Please redeem immediately.",
+  "voucher_reminder_3": "Dear {candidate_name}, FINAL REMINDER: Your certification voucher ({voucher_masked_code}) for {drive_name} expires in 3 days on {expiry_date}. This is your last chance to redeem."
+}

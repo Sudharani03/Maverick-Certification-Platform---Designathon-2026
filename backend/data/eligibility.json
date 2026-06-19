@@ -1,0 +1,529 @@
+[
+  {
+    "elig_id": "elig_c88798b5",
+    "reg_id": "reg_emp1001",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_887e1800",
+    "reg_id": "reg_emp1002",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_2579349c",
+    "reg_id": "reg_emp1003",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_5d58d690",
+    "reg_id": "reg_emp1004",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_a8a8b59e",
+    "reg_id": "reg_emp1005",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_6da67f1a",
+    "reg_id": "reg_emp1006",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_1a30f17d",
+    "reg_id": "reg_emp1007",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_95235fa1",
+    "reg_id": "reg_emp1008",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_661f5f1d",
+    "reg_id": "reg_emp1009",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_cd19c68a",
+    "reg_id": "reg_emp1010",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_e7db2d64",
+    "reg_id": "reg_emp1011",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_8bd7474a",
+    "reg_id": "reg_emp1012",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_b0d5855a",
+    "reg_id": "reg_emp1013",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_dfded3ca",
+    "reg_id": "reg_emp1014",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_2b0bc40c",
+    "reg_id": "reg_emp1015",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_ee38b573",
+    "reg_id": "reg_emp1019",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 200,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 2,
+      "prior_attempts_check": false,
+      "budget_check": true
+    },
+    "decision": "ineligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": "Prior attempts (2) exceed limit"
+  },
+  {
+    "elig_id": "elig_965a7ea3",
+    "reg_id": "reg_emp1020",
+    "drive_id": "drv_aws2026",
+    "criteria": {
+      "tenure_days": 200,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 2,
+      "prior_attempts_check": false,
+      "budget_check": true
+    },
+    "decision": "ineligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": "Prior attempts (2) exceed limit"
+  },
+  {
+    "elig_id": "elig_d4fb505e",
+    "reg_id": "reg_emp2001",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_c1b386a0",
+    "reg_id": "reg_emp2002",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_00d56f60",
+    "reg_id": "reg_emp2003",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_454fbe9d",
+    "reg_id": "reg_emp2004",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_e5974dbb",
+    "reg_id": "reg_emp2005",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_a26fae1a",
+    "reg_id": "reg_emp2006",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_7d6bc442",
+    "reg_id": "reg_emp2007",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_99bed330",
+    "reg_id": "reg_emp2008",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_804336db",
+    "reg_id": "reg_emp3001",
+    "drive_id": "drv_gcp2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_063e11e9",
+    "reg_id": "reg_emp3002",
+    "drive_id": "drv_gcp2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_55a74a8b",
+    "reg_id": "reg_emp3003",
+    "drive_id": "drv_gcp2026",
+    "criteria": {
+      "tenure_days": 180,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-05-29T12:39:00.945001+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_5fe7354e",
+    "reg_id": "reg_emp2009",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 120,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-06-19T04:22:32.361251+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_c2a5590e",
+    "reg_id": "reg_emp2010",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 120,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-06-19T04:22:32.650470+00:00",
+    "notes": ""
+  },
+  {
+    "elig_id": "elig_cd03b433",
+    "reg_id": "reg_97a68119",
+    "drive_id": "drv_azure2026",
+    "criteria": {
+      "tenure_days": 120,
+      "tenure_check": true,
+      "training_complete": true,
+      "prior_attempts": 0,
+      "prior_attempts_check": true,
+      "budget_check": true
+    },
+    "decision": "eligible",
+    "approver": "admin_001",
+    "decision_date": "2026-06-19T04:22:32.903722+00:00",
+    "notes": ""
+  }
+]

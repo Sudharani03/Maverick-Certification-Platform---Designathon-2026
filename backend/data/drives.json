@@ -1,0 +1,44 @@
+[
+  {
+    "drive_id": "drv_aws2026",
+    "name": "AWS Solutions Architect - July 2026",
+    "sponsor": "L&D Mavericks",
+    "budget": 75000,
+    "start_date": "2026-06-15",
+    "end_date": "2026-08-15",
+    "target_count": 40,
+    "policy_notes": "Max 2 attempts/year. Training mandatory. Manager approval required.",
+    "pass_threshold": 72,
+    "status": "active",
+    "created_at": "2026-05-19T12:39:00.945001+00:00",
+    "created_by": "admin_001"
+  },
+  {
+    "drive_id": "drv_azure2026",
+    "name": "Azure Administrator AZ-104 - Aug 2026",
+    "sponsor": "Cloud COE",
+    "budget": 50000,
+    "start_date": "2026-07-01",
+    "end_date": "2026-09-30",
+    "target_count": 30,
+    "policy_notes": "Min 90 days tenure. Max 2 attempts.",
+    "pass_threshold": 70,
+    "status": "active",
+    "created_at": "2026-05-29T12:39:00.945001+00:00",
+    "created_by": "admin_001"
+  },
+  {
+    "drive_id": "drv_gcp2026",
+    "name": "GCP Cloud Architect - Sep 2026",
+    "sponsor": "Engineering L&D",
+    "budget": 60000,
+    "start_date": "2026-08-01",
+    "end_date": "2026-10-31",
+    "target_count": 25,
+    "policy_notes": "Senior engineers with 1+ year tenure.",
+    "pass_threshold": 75,
+    "status": "active",
+    "created_at": "2026-06-08T12:39:00.945001+00:00",
+    "created_by": "admin_001"
+  }
+]
